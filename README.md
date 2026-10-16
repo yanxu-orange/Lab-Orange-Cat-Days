@@ -8,7 +8,7 @@
 
 ## 下载与反馈
 
-**[下载安卓体验版 0.2.5](https://github.com/yanxu-orange/Lab-Orange-Cat-Days/raw/refs/heads/main/downloads/Cat-Days-0.2.5.apk)**
+**[下载安卓体验版 0.2.6](https://github.com/yanxu-orange/Lab-Orange-Cat-Days/raw/refs/heads/main/downloads/Cat-Days-0.2.6.apk)**
 
 支持 Android 8.0 及以上，安装包约 1 MB。已安装旧版可直接覆盖升级。
 
