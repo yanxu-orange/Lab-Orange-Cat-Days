@@ -10,13 +10,13 @@
 
 ## 下载与反馈
 
-**[下载安卓体验版 0.2.4](https://github.com/yanxu-orange/Lab-Orange-Cat-Days/raw/refs/heads/main/downloads/Cat-Days-0.2.4.apk)**
+**[下载安卓体验版 0.2.5](https://github.com/yanxu-orange/Lab-Orange-Cat-Days/raw/refs/heads/main/downloads/Cat-Days-0.2.5.apk)**
 
 支持 Android 8.0 及以上，安装包约 1 MB。已安装旧版可直接覆盖升级。
 
 本仓库用于公开介绍、发布 APK 和收集使用反馈。
 
-0.2.4 在设置页增加了「项目主页」快捷入口，点击后通过系统浏览器打开本仓库。
+0.2.5 为称体重按钮补上「今天还没记 / 今天已称」状态；设置底部版本号在左、项目主页在右，同排对齐。点击项目主页会通过系统浏览器打开本仓库。
 
 如需反馈问题，可在本仓库的 Issues 中描述操作步骤。请勿上传含个人信息的体检报告或备份文件。
 
